@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="img/img.png" alt="Avazov Og'abek" width="350px">
-</div>
-
 <h1 align="center">👋 Hi there, I'm Avazov Og'abek!</h1>
 
 <p align="center">16-year-old Web Developer | Curious learner | Passionate about coding</p>
