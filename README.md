@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Avazov Og'abek!</h1>
 
-<p align="center">16-year-old Web Developer | Curious learner | Passionate about coding</p>
+<p align="center">17-year-old Web Developer | Curious learner | Passionate about coding</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-16-blue" alt="Age: 16">
