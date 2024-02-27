@@ -14,7 +14,7 @@
 
 <p align="center">
   <b>Languages & Tools:</b><br>
-  Python, Django, JavaScript (including Dart), CSS, HTML, DRF, Docker, PostgreSQL, English language | B1
+  Python, Django, JavaScript (including Dart), C++, CSS, HTML, DRF, Docker, PostgreSQL, English language | B1
 </p>
 
 <h2 align="center">🎓 Education</h2>
