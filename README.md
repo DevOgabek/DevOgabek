@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Tools-DRF%2C%20Docker%2C%20PostgreSQL-informational" alt="Tools: DRF, Docker, PostgreSQL">
 </p>
 
-<p align="center">At the age of 16, my enthusiasm for programming has already led me to exciting discoveries and challenges. From my earliest encounters with code, I found joy in the logical puzzles and creative problem-solving that programming offers.</p>
+<p align="center">In the last two years, I've immersed myself in Information Technology driven by curiosity and a passion for creativity. I'm eager to leverage my technical skills to advance as a young developer. With strong organizational abilities, self-motivation, and computer proficiency, I excel in collaborative settings, valuing mutual respect. I believe our future endeavors will position our company as a leader in innovation.</p>
 
 <h2 align="center">🛠️ Skills</h2>
 
