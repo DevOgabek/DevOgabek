@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👨‍💻 Hey, I'm Og'abek - Web & Backend Developer
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/yourusername/)
+# 👨‍💻 Hey, I'm Og'abek - Web & Full-stack Developer
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/DevOgabek/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/DevOgabek)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/DevOgabek/)
 
