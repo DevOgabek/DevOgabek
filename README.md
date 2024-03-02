@@ -7,10 +7,10 @@
 
 
 ## 🚀 Quick Overview
- 🌱 Always exploring the latest in web technologies and backend frameworks.
- 💡 Open to collaborate on web development and backend projects.
- 🤔 Currently diving deep into Python and Machine Learning.
- 💬 Let's discuss all things web and backend development!
+ #### 🌱 Always exploring the latest in web technologies and backend frameworks.
+ #### 💡 Open to collaborate on web development and backend projects.
+ #### 🤔 Currently diving deep into Python and Machine Learning.
+ #### 💬 Let's discuss all things web and backend development!
 ## 🛠️ Skills & Tools
 
 ### Frontend Development
