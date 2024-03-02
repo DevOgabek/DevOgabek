@@ -51,9 +51,9 @@
  My problem-solving approach involves a comprehensive analysis, examining issues from various angles and breaking them down into manageable components.
 
 #### Methodologies
- **Root Cause Analysis:** Identifying core issues to address fundamental problems.
- **Creative Thinking:** Leveraging innovative and out-of-the-box solutions.
- **Collaborative Problem Solving:** Seeking insights and perspectives from team members for a holistic problem-solving approach.
+ #### **Root Cause Analysis:** Identifying core issues to address fundamental problems.
+ #### **Creative Thinking:** Leveraging innovative and out-of-the-box solutions.
+ #### **Collaborative Problem Solving:** Seeking insights and perspectives from team members for a holistic problem-solving approach.
 
 
 ## 📊 GitHub Stats
