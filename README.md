@@ -1,55 +1,106 @@
-<h1 align="center">👋 Hi there, I'm Avazov Og'abek!</h1>
-
-<p align="center">17-year-old Web Developer | Curious learner | Passionate about coding</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Age-16-blue" alt="Age: 16">
-  <img src="https://img.shields.io/badge/Languages-Python%2C%20Django%2C%20JavaScript%2C%20CSS%2C%20HTML-success" alt="Languages: Python, Django, JavaScript, CSS, HTML">
-  <img src="https://img.shields.io/badge/Tools-DRF%2C%20Docker%2C%20PostgreSQL-informational" alt="Tools: DRF, Docker, PostgreSQL">
-</p>
-
-<p align="center">In the last two years, I've immersed myself in Information Technology driven by curiosity and a passion for creativity. I'm eager to leverage my technical skills to advance as a young developer. With strong organizational abilities, self-motivation, and computer proficiency, I excel in collaborative settings, valuing mutual respect. I believe our future endeavors will position our company as a leader in innovation.</p>
-
-<h2 align="center">🛠️ Skills</h2>
-
-<p align="center">
-  <b>Languages & Tools:</b><br>
-  Python, Django, JavaScript (including Dart), C++, CSS, HTML, DRF, Docker, PostgreSQL, English language | B1
-</p>
-
-<h2 align="center">🎓 Education</h2>
-
-<p align="center">
-  <b>Python Backend</b><br>
-  Graduated from Najot Talim in 2023
-</p>
-
-<h2 align="center">📧 Contact</h2>
-
-<p align="center">
-  <b>Email:</b> oavazov014@email.com<br>
-  <b>Phone:</b> +998 95 009 51 14 or +998 95 135 51 14<br>
-  <b>GitHub:</b> <a href="https://github.com/DevOgabek">DevOgabek</a>
-</p>
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  LeetCode Badges 2022<br>
-</p>
-
-<h2 align="center">🌟 Interests</h2>
-
-<p align="center">
-  Exploring AI & Machine Learning<br>
-  Reading about Space & Astronomy<br>
-  Playing chess & checkers<br>
-</p>
-
-<h2 align="center">🎉 Fun Fact</h2>
-
-<p align="center">I can solve a Rubik's Cube in under a minute!</p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevOgabek&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="DevOgabek's Stats">
+
+# 👨‍💻 Hey, I'm Og'abek - Web & Backend Developer
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/yourusername/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/DevOgabek)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/DevOgabek/)
+
+
+## 🚀 Quick Overview
+- 🌱 Always exploring the latest in web technologies and backend frameworks.
+- 💡 Open to collaborate on web development and backend projects.
+- 🤔 Currently diving deep into Python and Machine Learning.
+- 💬 Let's discuss all things web and backend development!
+## 🛠️ Skills & Tools
+
+### Frontend Development
+- **Languages:** HTML, CSS, JavaScript
+
+### Backend Development
+- **Languages:** Python (Django), C++, Dart
+- **Frameworks/Libraries:** Django, Numpy (Python), Colecations (Python)
+- **API Development:** Django Rest Framework (DRF)
+- **Database:** PostgreSQL
+
+### Tools & Environment
+- **Version Control:** Git
+- **IDE:** Visual Studio Code
+- **API Testing:** Postman
+- **API Documentation:** Swagger
+- **Bot Development:** pyTelegramBotAPI
+- **Hosting:** pythonanywhere.com
+
+### Project Management
+
+#### Methodologies & Practices
+- **Agile Framework:**
+  - Applying Agile principles for adaptive and iterative development.
+  - Embracing flexibility to address changing project requirements (SOLID).
+  - Conducting regular sprint planning and retrospectives for continuous improvement.
+
+#### Scrum Practices
+- Maintaining a prioritized backlog for efficient task management, ensuring alignment with project objectives.
+
+#### Kanban Board
+- Employing Kanban for visualizing workflow and optimizing task progression.
+- Monitoring work-in-progress limits to enhance team efficiency.
+
+### Problem Solving
+
+#### Approach
+- My problem-solving approach involves a comprehensive analysis, examining issues from various angles and breaking them down into manageable components.
+
+#### Methodologies
+- **Root Cause Analysis:** Identifying core issues to address fundamental problems.
+- **Creative Thinking:** Leveraging innovative and out-of-the-box solutions.
+- **Collaborative Problem Solving:** Seeking insights and perspectives from team members for a holistic problem-solving approach.
+
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOgabek&show_icons=true&theme=dark)
+
+## 🌟 Fun Facts
+- I once built a DjangoSocialMediaApplication in under 18 hours!
+- I can solve a Rubik's Cube in under a minute!
+
+## My most interesting projects
+
+<div style="display: flex; justify-content: space-around;">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoSocialMediaApplication&theme=dark)](https://github.com/DevOgabek/DjangoSocialMediaApplication)
+
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoBlogPlatform&theme=dark)](https://github.com/DevOgabek/DjangoBlogPlatform)
+
 </div>
+<div style="display: flex; justify-content: space-around;">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=SMTPEmailSenderPython&theme=dark)](https://github.com/DevOgabek/SMTPEmailSenderPython)
+
+
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=WikibotTelegram&theme=dark)](https://github.com/DevOgabek/WikibotTelegram)
+
+
+</div>
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=TkinterCalculator&theme=dark)](https://github.com/DevOgabek/TkinterCalculator)
+
+## My Future Projects
+
+### Powerful Social Media Platform
+
+- **Description:** Creating a powerful social media platform with support for desktop and Android on the web.
+
+  - **Features:**
+    - Web support for both desktop and Android.
+    - Seamless integration with other social platforms such as GitHub, Google, and others.
+
+  - **Goals:**
+    - Provide a user-friendly interface.
+    - Enhance user experience with responsive design.
+    - Enable easy connectivity to multiple social platforms.
+
+  - **Timeline:**
+    - Planning: February 25, 2024
+    - Development: February 25, 2024 - March 15, 2024
+    - Testing: March 15, 2024 - March 16, 2024
+    - Deployment: March 17, 2024
