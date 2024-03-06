@@ -66,9 +66,10 @@
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoSocialMediaApplication&theme=dark)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoBlogPlatform&theme=dark)
-![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=SMTPEmailSenderPython&theme=dark)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodeReputationRank&theme=dark)
 ![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=WikibotTelegram&theme=dark)
 ![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=TkinterCalculator&theme=dark)
+![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodePythonSolutions&theme=dark)
 
 ## My Future Projects
 
