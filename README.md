@@ -64,7 +64,7 @@
 
 ## My most interesting projects
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoSocialMediaApplication&theme=dark)
+<a href="https://github.com">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoSocialMediaApplication&theme=dark)</a>
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoBlogPlatform&theme=dark)
 ![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodeReputationRank&theme=dark)
 ![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=WikibotTelegram&theme=dark)
