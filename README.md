@@ -65,17 +65,17 @@
 
 ## My most interesting projects
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoSocialMediaApplication&theme=dark)](https://github.com/DevOgabek/DjangoSocialMediaApplication)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoSocialMediaApplication&theme=dark)
 
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoBlogPlatform&theme=dark)](https://github.com/DevOgabek/DjangoBlogPlatform)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoBlogPlatform&theme=dark)
 
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodeReputationRank&theme=dark)](https://github.com/DevOgabek/LeetCodeReputationRank)
+![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodeReputationRank&theme=dark)
 
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=WikibotTelegram&theme=dark)](https://github.com/DevOgabek/WikibotTelegram)
+![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=WikibotTelegram&theme=dark)
 
-[![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=TkinterCalculator&theme=dark)](https://github.com/DevOgabek/TkinterCalculator)
+![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=TkinterCalculator&theme=dark)
 
-[![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodePythonSolutions&theme=dark)](https://github.com/DevOgabek/LeetCodePythonSolutions)
+![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodePythonSolutions&theme=dark)
 
 ## My Future Projects
 
