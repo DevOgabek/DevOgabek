@@ -66,15 +66,10 @@
 ## My most interesting projects
 
 <a href="https://github.com/DevOgabek/DjangoSocialMediaApplication">![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoSocialMediaApplication&theme=dark)</a>
-
 <a href="https://github.com/DevOgabek/DjangoBlogPlatform">![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoBlogPlatform&theme=dark)</a>
-
 <a href="https://github.com/DevOgabek/LeetCodeReputationRank">![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodeReputationRank&theme=dark)</a>
-
 <a href="https://github.com/DevOgabek/WikibotTelegram">![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=WikibotTelegram&theme=dark)</a>
-
 <a href="https://github.com/DevOgabek/TkinterCalculator">![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=TkinterCalculator&theme=dark)</a>
-
 <a href="https://github.com/DevOgabek/LeetCodePythonSolutions">![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodePythonSolutions&theme=dark)</a>
 
 ## My Future Projects
