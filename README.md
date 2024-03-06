@@ -55,9 +55,8 @@
 - **Collaborative Problem Solving:** Seeking insights and perspectives from team members for a holistic problem-solving approach.
 
 ## GitHub and Leetcode Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOgabek&show_icons=true&theme=dark)](https://github.com/DevOgabek)
-
-[![DevOgabek's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DevOgabek&theme=Dark)](https://leetcode.com/DevOgabek/)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOgabek&show_icons=true&theme=dark)
+[![DevOgabek's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DevOgabek&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ## Fun Facts
 - I once built a DjangoSocialMediaApplication in under 18 hours!
@@ -66,15 +65,10 @@
 ## My most interesting projects
 
 ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoSocialMediaApplication&theme=dark)
-
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=DjangoBlogPlatform&theme=dark)
-
 ![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodeReputationRank&theme=dark)
-
 ![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=WikibotTelegram&theme=dark)
-
 ![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=TkinterCalculator&theme=dark)
-
 ![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodePythonSolutions&theme=dark)
 
 ## My Future Projects
