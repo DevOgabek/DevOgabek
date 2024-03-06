@@ -55,8 +55,7 @@
 - **Collaborative Problem Solving:** Seeking insights and perspectives from team members for a holistic problem-solving approach.
 
 ## GitHub and Leetcode Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOgabek&show_icons=true&theme=dark)
-
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOgabek&show_icons=true&theme=dark)](https://github.com/DevOgabek/)
 [![DevOgabek's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=DevOgabek&theme=Dark)](https://leetcode.com/DevOgabek/)
 
 ## Fun Facts
