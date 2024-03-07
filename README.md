@@ -3,6 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/DevOgabek/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/DevOgabek)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/DevOgabek/)
+![Profile views](https://komarev.com/ghpvc/?username=DevOgabek&color=lightgrey)
 
 ## Quick Overview
 - 🌱 Always exploring the latest in web technologies and backend frameworks.
