@@ -6,8 +6,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/DevOgabek/)
 ![Profile views](https://komarev.com/ghpvc/?username=DevOgabek&color=lightgrey)
 
-## My actiity
-
 ![Profile views](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevOgabek&theme=dark)
 
 ## Quick Overview
