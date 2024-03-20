@@ -6,8 +6,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/DevOgabek/)
 ![Profile views](https://komarev.com/ghpvc/?username=DevOgabek&color=lightgrey)
 
-![Profile views](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevOgabek&theme=dark)
-
 ## Quick Overview
 - 🌱 Always exploring the latest in web technologies and backend frameworks.
 - 💡 Open to collaborate on web development and backend projects.
@@ -75,20 +73,3 @@
 <a href="https://github.com/DevOgabek/WikibotTelegram">![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=WikibotTelegram&theme=dark)</a>
 <a href="https://github.com/DevOgabek/TkinterCalculator">![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=TkinterCalculator&theme=dark)</a>
 <a href="https://github.com/DevOgabek/LeetCodePythonSolutions">![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=DevOgabek&repo=LeetCodePythonSolutions&theme=dark)</a>
-
-## My Future Projects
-
-### Powerful Social Media Platform
-- **Description:** Creating a powerful social media platform with support for desktop and Android on the web.
-- **Features:**
-  - Web support for both desktop and Android.
-  - Seamless integration with other social platforms such as GitHub, Google, and others.
-- **Goals:**
-  - Provide a user-friendly interface.
-  - Enhance user experience with responsive design.
-  - Enable easy connectivity to multiple social platforms.
-- **Timeline:**
-  - Planning: February 25, 2024
-  - Development: February 25, 2024 - March 15, 2024
-  - Testing: March 15, 2024 - March 16, 2024
-  - Deployment: March 17, 2024
