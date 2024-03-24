@@ -5,7 +5,7 @@
 ![Collaboration](img/Collaboration.png)
 
 <details>
-<summary><b>Links</b></summary>
+<summary><b>Other | Links</b></summary>
 
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram)](https://t.me/CodeCraftsmanChronicles)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/DevOgabek/)
